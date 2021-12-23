@@ -1,4 +1,4 @@
-## Hyerin Joo  
+## Hi👋  
   
 
  ⚙️ I’m currently learning `JavaScript`  
@@ -13,10 +13,10 @@
 ## Experience  
   
 
-🎓 Gachon University , Fashion Design (2017.03 ~ 2021.02)  
+🎓 Gachon University , Fashion Design (2017.03~ )  
   
 
- 🦁 LikeLion Front-end School 1th (2021.11 ~ 2022.01)  
+ 🦁 LikeLion Front-end School 1th (2021.11~2022.01)  
   
 
 <br/>  
@@ -35,9 +35,7 @@
 
 <br/>  
 
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=HyeRrin&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+  
 
 <br/>  
 

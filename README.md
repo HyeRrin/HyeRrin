@@ -33,15 +33,4 @@
 
   
 
-<br/>    
-
-
-  
-
-<br/>  
-
-<div align="left">
-<img src="https://komarev.com/ghpvc/?username=HyeRrin&&style=flat-square" align="center" />
-</div>  
-  
 

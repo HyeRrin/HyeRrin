@@ -13,10 +13,10 @@
 ## Experience  
   
 
-🎓 Gachon University , Fashion Design (2017.03~ )  
+🎓 Gachon University , Fashion Design (2017.03 ~ 2021.02 )  
   
 
- 🦁 LikeLion Front-end School 1th (2021.11~2022.01)  
+ 🦁 LikeLion Front-end School 1th (2021.11 ~ 2022.01)  
   
 
 <br/>  

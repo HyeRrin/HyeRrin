@@ -4,7 +4,7 @@
  ⚙️ I’m currently learning `JavaScript`, `Node.js`
   
 
- 🏡 Seoul, Korea  
+ 🏡 Seoul, Korea    
   
 
 ⠀  

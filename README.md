@@ -1,7 +1,7 @@
 ## Hi❤
   
 
- ⚙️ I’m currently learning `JavaScript`, `Node.js`
+ ⚙️ I’m currently learning `JavaScript`, `Node.js`, `React`
   
 
  🏡 Seoul, Korea    

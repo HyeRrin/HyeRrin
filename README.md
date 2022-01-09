@@ -9,7 +9,7 @@
 <br>
 
 ## Follow me
-<a href="https://velog.io/@hye_rin"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hye_rin"/></a>
+<a href="https://velog.io/@hye_rin"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=border-radius=10%&flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hye_rin"/></a>
 <a href="https://www.instagram.com/joooohyerin/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/joooohyerin/"/></a>
 
 <br>

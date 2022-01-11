@@ -1,9 +1,6 @@
-## ❤ Hi
-   
-
+## 🙋🏻‍♀️ Hi
 
  ⚙️ I’m currently learning `JavaScript`, `Node.js`, `React`
-  
 
  🏡 Seoul, Korea    
   
@@ -13,15 +10,11 @@
 
 ## 🛤 Experience  
   
-
 🎓 Gachon University , Fashion Design ( 2017.03 ~ 2021.02 )  
   
-
- 🦁 LikeLion Front-end School 1th ( 2021.11 ~ 2022.01 )  
-  
+🦁 LikeLion Front-end School 1th ( 2021.11 ~ 2022.01 )    
 
 <br/>  
-
 
 ## 🛠 My Skill Set  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -31,9 +24,6 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 
-
 <br/>  
-
-  
 
 

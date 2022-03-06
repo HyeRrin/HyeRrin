@@ -1,4 +1,5 @@
 ## Hyerin
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyeRrin&count_bg=%23F5639E&title_bg=%236E6E6E&icon=&icon_color=%23E7E7E7&title=Visit&edge_flat=true)](https://hits.seeyoufarm.com)
 <a href="https://velog.io/@hye_rin"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hye_rin"/></a>
 
 ### Introduce

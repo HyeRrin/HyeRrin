@@ -1,28 +1,27 @@
-## 🙋🏻‍♀️ Hi
+## Hyerin
 
- ⚙️ I’m currently learning `JavaScript`, `React`
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyeRrin&count_bg=%23F34994&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visit&edge_flat=true)](https://hits.seeyoufarm.com)
+<a href="https://velog.io/@hye_rin"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hye_rin"/></a>
 
- 🏡 Seoul, Korea    
-  
-<a href="https://velog.io/@hye_rin"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=border-radius=10%&flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hye_rin"/></a>
+### Introduce
 
-<br>
+- ⚙️ I’m currently learning `React`<br>
+- 👠 I majored in Fashion-design<br>
+- 🏡 I live in Seoul, Korea
+  <br>
 
-## 🛤 Experience  
-  
-🎓 Gachon University , Fashion Design ( 2017.03 ~ 2021.02 )  
-  
-🦁 LikeLion Front-end School 1th ( 2021.11 ~ 2022.01 )    
+### Experience
 
-<br/>  
+- 🦁 LikeLion Front-end School 1th (2021.11 - 2022.01) <br>
+- 🛒 Brandi, Merchandising Intern (2021.04 - 2021.07)<br>
+- 🎓 Gachon University , Fashion Design (2017.03 - 2021.02)
+  <br/>
 
-## 🛠 My Skill Set  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+### Skill Set
 
+<img alt="html5" src ="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"/>
+<img alt="css3" src ="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white"/>
+<img alt="css3" src ="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>
+<img alt="css3" src ="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
 
-<br/>  
-
-
+<br/>

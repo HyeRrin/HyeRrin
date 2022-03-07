@@ -1,5 +1,5 @@
 ## Hyerin
-<a href="https://velog.io/@hye_rin"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hye_rin"/></a>
+<a href="https://velog.io/@hye_rin">![Tech Blog](https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hye_rin)</a>
 
 ### Introduce
 

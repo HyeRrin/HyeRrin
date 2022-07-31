@@ -4,8 +4,6 @@
 
 <a href="https://velog.io/@hye_rin">![Blog](https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hye_rin)</a>
 
-<br/>
-
 ### ⚒️ Skills
 
 ![html5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)

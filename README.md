@@ -3,10 +3,12 @@
 - 👠 I majored in Fashion-design<br />
 - 🏡 I live in Seoul, Korea
 
-<br />
+
 
 ### Blog
 <a href="https://velog.io/@hye_rin">![Blog](https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hye_rin)</a>
+
+<br />
 
 ### Skills
 

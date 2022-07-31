@@ -7,6 +7,8 @@
 - 👠 I majored in Fashion-design<br />
 - 🏡 I live in Seoul, Korea
 
+<br />
+
 ### Skills
 
 ![html5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)

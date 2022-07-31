@@ -1,5 +1,5 @@
 ## HyeRin
-⚙️ I’m currently learning `JavaScript`, `React`<br />
+⚒️ I’m currently learning `JavaScript`, `React`<br />
 👠 I majored in Fashion-design<br />
 🏡 I live in Seoul, Korea
 

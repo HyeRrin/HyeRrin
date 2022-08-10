@@ -4,7 +4,7 @@
 🏡 I live in Seoul, Korea
 
 ### Blog
-<a href="https://velog.io/@hye_rin">![Blog](https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hye_rin)</a>
+<a href="https://velog.io/@hye_rin">![Blog](https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hye_rin)</a><br />
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hye_rin&slug=나만의-자기소개-웹페이지)](https://github.com/HyeRrin/velog-readme-stats)
 
 ### Skills

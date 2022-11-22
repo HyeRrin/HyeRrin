@@ -1,5 +1,5 @@
 ## 혜린 (HyeRin)
-⚒️ I’m currently learning `Next.js`, `mobX`<br />
+⚒️ I’m currently learning `Next.js`, `MobX`, `TypeScript`<br />
 👠 I majored in Fashion-design<br />
 🏡 I live in Seoul, Korea
 

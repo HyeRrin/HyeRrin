@@ -1,7 +1,7 @@
 ## 혜린 (HyeRin)
 
 ⚒️ I’m currently learning `TypeScript`, `Redux`, `React Native`<br />
-👠 I majored in Fashion-design<br />
+👠 I majored in Fashion Design<br />
 🏡 I live in Seoul, Korea
 
 ### Skills

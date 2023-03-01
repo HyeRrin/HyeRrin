@@ -15,13 +15,6 @@
 ![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white)
 
-### Business Tool
-
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-
 ### Social
 
 <a href="https://velog.io/@hye_rin">![Blog](https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat&logo=Vimeo&logoColor=white&link=https://velog.io/@hye_rin)</a>

@@ -2,7 +2,6 @@
 
 ⚒️ I’m currently learning `React Native`, `TypeScript`<br />
 👠 I majored in Fashion Design<br />
-🏡 I live in Seoul, Korea
 
 ### Skills
 

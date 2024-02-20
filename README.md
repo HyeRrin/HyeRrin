@@ -3,7 +3,7 @@
 <br />
 
 ###  ── Introduce
-- ✨ I’m currently learning `RN`, `Next.js`, `MobX`, `TypeScript`<br />
+- ✨ I’m currently learning `React Native`, `Next.js`, `MobX`, `TypeScript`<br />
 - 👠 I majored in Fashion Design<br />
 
 ###  ── Popular Blog Posts

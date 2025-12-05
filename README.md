@@ -3,11 +3,11 @@
 <br />
 
 ###  ── Experience
-- `2025.12 - 2026.11` [Toss Securities] Frontend Ops Developer 
-- `2023.03 - 2025.08` [Reket] Frontend Developer 
-- `2022.08 - 2022.11` [Wecode] Frontend Course 37th 
-- `2021.11 - 2022.01` [LikeLion] Frontend Course 1th 
-- `2017.03 - 2021.02` [Gachon University] Fashion Design 
+- `2025.12 - 2026.11` [📈Toss Securities] Frontend Ops Developer 
+- `2023.03 - 2025.08` [👗Reket] Frontend Developer 
+- `2022.08 - 2022.11` [👩🏻‍💻Wecode] Frontend Course 37th 
+- `2021.11 - 2022.01` [👩🏻‍💻LikeLion] Frontend Course 1th 
+- `2017.03 - 2021.02` [🎓Gachon University] Fashion Design 
 
 ###  ── Popular Blog Posts
 
@@ -19,3 +19,4 @@
 - 🏊‍♀️ Swimming
 - 🪴 Plant
 - 🍣 Sushi
+

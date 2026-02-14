@@ -1,5 +1,6 @@
-<a href="https://velog.io/@hye_rin">![Blog](https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat&logo=Vimeo&logoColor=white&link=https://velog.io/@hye_rin)</a>
-[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:candy980426@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat&logo=LinkedIn&logoColor=white)]([https://www.linkedin.com/in/haesoo-y/](https://www.linkedin.com/in/%ED%98%9C%EB%A6%B0-%EC%A3%BC-52a33a267/)) 
+<a href="https://velog.io/@hye_rin">![Blog](https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat&link=https://velog.io/@hye_rin)</a>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat)](mailto:candy980426@gmail.com)
 <br />
 
 ###  ── Experience
@@ -19,4 +20,5 @@
 - 🏊‍♀️ Swimming
 - 🪴 Plant
 - 🍣 Sushi
+
 

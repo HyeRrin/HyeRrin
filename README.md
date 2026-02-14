@@ -18,7 +18,7 @@
 
 ###  ── What I like
 - 🏊‍♀️ Swimming
-- 🪴 Plant
 - 🍣 Sushi
+
 
 
